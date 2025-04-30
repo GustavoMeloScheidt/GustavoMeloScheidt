@@ -5,13 +5,13 @@ Welcome to my GitHub profile!
 ## About Me
 
 I am an engineering student currently pursuing a double degree at **Institut Polytechnique de Paris (Télécom SudParis)** and **Universidade Estadual de Campinas (UNICAMP)**.  
-Driven by a passion for **Artificial Intelligence** and its applications in **healthcare**, I am committed to developing solutions that merge technology and human well-being.
+Driven by a passion for **Artificial Intelligence** and its applications in **healthcare**, I want to make significant contributions and impact people's lives.
 
 ## 🚀 My Journey
 
 - 🎓 **Education:**  
   - **Telecommunications Engineering** - UNICAMP  
-  - **Engineering (Data and AI focus)** - Télécom SudParis (Institut Polytechnique de Paris)
+  - **Engineering (Data and AI focus)** - Institut Polytechnique de Paris
 
 - 🔬 **Research Projects:**  
   - **Wearable Prototype for Cardiovascular Disease Detection:** Integrated biomedical sensors with Machine Learning (Random Forest) models to detect anomalies in heart rate and oxygen saturation.  
@@ -26,8 +26,8 @@ Driven by a passion for **Artificial Intelligence** and its applications in **he
 
 - 🌎 **Languages:**  
   - English
-  - Portuguese
   - French 
+  - Portuguese 
   - Spanish 
 
 ## 🌟 Interests
@@ -44,5 +44,5 @@ Driven by a passion for **Artificial Intelligence** and its applications in **he
 
 ---
 
-> "I am passionate about using technology to make a real impact on people's lives, especially in healthcare."
+> "My goal is to use technology to make a real impact on people's lives."
 
