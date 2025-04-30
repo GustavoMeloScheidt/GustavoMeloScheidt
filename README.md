@@ -20,21 +20,15 @@ Driven by a passion for **Artificial Intelligence** and its applications in **he
   - **Upcoming Research Internship at [ARTEMIS Laboratory](https://artemis.telecom-sudparis.eu/en/) (June 2025):**  
     Conducting a 3-month research internship focused on **Artificial Intelligence** and **medical imaging segmentation**, specializing in **Mamba architectures** evaluation, optimization, and application to brain MRI scans.
 
-- 🏆 **Achievements:**  
-  - **Winner at Harvard Health Systems Innovation Lab Hackathon (Brazilian Stage)**  
-  - **Member of TEDx Unicamp Limeira Organization Team**  
-  - **Volunteer at CVU, supporting marginalized communities**
-
 - 💻 **Technical Skills:**  
   - Programming: **Python**, **C/C++**, **VHDL**, **MATLAB**, **Simulink**, **Ladder**  
   - Tools: **AutoCAD**, **HFSS**, **FPGA**, **WordPress**
 
 - 🌎 **Languages:**  
-  - English (**C1**, TOEFL IBT)  
-  - Portuguese (Native)  
-  - French (**B2** evaluated by IP Paris)  
-  - Spanish (**A2**)  
-  - German (**A1**)
+  - English
+  - Portuguese
+  - French 
+  - Spanish 
 
 ## 🌟 Interests
 
