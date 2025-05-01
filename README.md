@@ -1,6 +1,6 @@
 # Hi there, I'm Gustavo Melo Scheidt Paulino 👋
 
-Welcome to my GitHub profile!
+Welcome to my GitHub profile! Here is my portfolio: gustavomeloscheidt.github.io/portfolio-gustavo/
 
 ## About Me
 
