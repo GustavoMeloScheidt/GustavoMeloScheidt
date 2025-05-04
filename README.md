@@ -22,7 +22,7 @@ Driven by a passion for **Artificial Intelligence** and its applications in **he
 
 - 💻 **Technical Skills:**  
   - Programming: **Python**, **C/C++**, **VHDL**, **MATLAB**, **Simulink**, **Ladder**  
-  - Tools: **AutoCAD**, **HFSS**, **FPGA**, **WordPress**
+  - Tools: **AutoCAD**, **HFSS**, **FPGA**, **WordPress**, **Slicer**
 
 - 🌎 **Languages:**  
   - English
